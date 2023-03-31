@@ -45,8 +45,7 @@ public class Exercicio16 {
 		}
 
 		System.out.println();
-		System.out.println(
-				"a) a soma de elementos armazenados " + "neste vetor que são inferiores a 15 = " + somaMenorQue15);
+		System.out.println("a) a soma de elementos armazenados " + "neste vetor que são inferiores a 15 = " + somaMenorQue15);
 		System.out.println();
 		System.out.println("a quantidade de elementos armazenados no vetor que" + "são iguais a 15 = " + somaIgualA15);
 		System.out.println();
